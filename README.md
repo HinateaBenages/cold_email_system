@@ -27,11 +27,6 @@ Setup
 3. Configure email credentials  
    This project uses SMTP to send emails.
 
-   Example SMTP settings:
-   - Host: smtp.gmail.com
-   - Port: 587
-   - Encryption: TLS
-
 4. Use an App Password (recommended)  
    If you're using Gmail or similar providers, do NOT use your main password.
 
