@@ -1,0 +1,7 @@
+Hey {{first_name}},
+
+I saw {{company}} and wanted to reach out quickly.
+
+We help agencies get more clients using cold email.
+
+Worth a quick chat?
