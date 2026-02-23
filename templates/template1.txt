@@ -1,0 +1,7 @@
+Salut {{first_name}},
+
+Je suis tombé sur {{company}} et je voulais te poser une question rapide.
+
+Tu serais dispo 10 min cette semaine ?
+
+Hina
