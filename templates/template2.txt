@@ -1,0 +1,9 @@
+Hello {{first_name}},
+
+Petite question concernant {{company}}.
+
+Je travaille sur un truc qui peut peut-être vous aider.
+
+Ouvert à en discuter 10 min ?
+
+Hina
